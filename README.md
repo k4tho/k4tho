@@ -2,7 +2,7 @@
 
 I'm a sophomore majoring in computer science and minoring in game development programming. 
 
-I've been learning java, python, and now C#, so I'm posting my code from my classes and personal projects to practice and better my coding. I'm not really sure how to go about everything in terms of how to use github, career paths, resumes, internships, personal projects, hackathons, anything computer science in general. Just everything. I'm always looking to try new stuff and to improve so if you have any advice, let me know! Greatly appreciated :)
+I've been learning java, python, and now C#, so I'm posting my code from my classes and personal projects to practice and better my coding. :^)
 
 <!--
 **k4tho/k4tho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
