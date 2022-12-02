@@ -1,8 +1,4 @@
-### Hi!
-
-I'm a sophomore majoring in computer science and minoring in game development programming. 
-
-I've been learning java, python, and now C#, so I'm posting my code from my classes and personal projects to practice and better my coding. :^)
+### Hi
 
 <!--
 **k4tho/k4tho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
